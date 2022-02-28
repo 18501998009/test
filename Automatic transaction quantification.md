@@ -1,5 +1,5 @@
-text1 = '我'
-text2 = '爱'
-text3 = '你'
-full_text = text1 + text2 + text3
-print(full_text)
+1text1 = '我'
+2text2 = '爱'
+3text3 = '你'
+4full_text = text1 + text2 + text3
+5print(full_text)
